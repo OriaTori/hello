@@ -2,7 +2,7 @@
 
 int main(){
 
-    std::cout<<"Hello world\n";
+    std::cout<<"Hello Martyna\n";
     std::cout<<"Remamber - better version with endl"<< std::endl;
     return 0;
 }
